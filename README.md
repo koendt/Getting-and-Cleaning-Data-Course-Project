@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 Peer-graded Assignment: Getting and Cleaning Data Course Project
-Submitted by November 11, 10:59 PM PST
+Submitted by November 11 2018, 10:59 PM PST
 
 This repository consists out of the following files:
 - a code book: codebook.md, explaining the variables
